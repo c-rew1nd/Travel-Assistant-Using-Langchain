@@ -1,1 +1,14 @@
---upgrade langchain langchain-core langgraph dotenv -qU langchain-groq -U langchain-community faiss-cpu chromadb
+langchain-core
+langchain-groq
+langchain-community
+langgraph
+faiss-cpu
+sentence-transformers
+transformers
+torch
+pillow
+requests
+kaggle
+numpy
+pandas
+scikit-learn
